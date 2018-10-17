@@ -9,6 +9,7 @@ A fork of [EchoPet](https://github.com/DSH105/EchoPet) updated to 1.9
 - A Custom AI makes all Pets focused on specific goals, handled closely by the core of the Plugin
   - Make your pets attack your enemies
 - Supports minecraft 1.6.4-1.9
+- Does not work with properly with versions past 1.9.x I.E does not work perfectly when using ViaVersion and ProtocolSupport past 1.9. 
 
 ## Changes
 I've made some changes to EchoPet in SonarPet, which are listed below.
